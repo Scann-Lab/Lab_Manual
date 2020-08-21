@@ -11,7 +11,7 @@
   <meta property="og:title" content="SCANN Lab Manual" />
   <meta property="og:type" content="book" />
   
-  
+  <meta property="og:image" content="figs/SCANN_Lab_Logo_NoOutline_With_Text.png" />
   <meta property="og:description" content="This lab manual outlines the main policies and procedures for working in the SCANN lab." />
   
 
@@ -19,7 +19,7 @@
   <meta name="twitter:title" content="SCANN Lab Manual" />
   
   <meta name="twitter:description" content="This lab manual outlines the main policies and procedures for working in the SCANN lab." />
-  
+  <meta name="twitter:image" content="figs/SCANN_Lab_Logo_NoOutline_With_Text.png" />
 
 <meta name="author" content="Steven M. Weisberg, PhD" />
 
@@ -29,7 +29,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
-  
+  <link rel="shortcut icon" href="figs/favicon.ico" type="image/x-icon" />
 
 <link rel="next" href="working-in-the-lab.html"/>
 <script src="libs/header-attrs-2.3/header-attrs.js"></script>
@@ -66,9 +66,10 @@
       <nav role="navigation">
 
 <ul class="summary">
-<li><a href="./">Lab Handbook</a></li>
+<li class="toc-logo"><a href="./"><img src="figs/SCANN_Lab_Logo_NoOutline_With_Text.png"></a>
 
 <li class="divider"></li>
+<li class="part"><span><b>Introduction</b></span></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome</a></li>
 <li class="chapter" data-level="2" data-path="working-in-the-lab.html"><a href="working-in-the-lab.html"><i class="fa fa-check"></i><b>2</b> Working in the lab</a>
 <ul>
@@ -122,7 +123,7 @@
 </ul></li>
 <li class="chapter" data-level="7" data-path="onboarding.html"><a href="onboarding.html"><i class="fa fa-check"></i><b>7</b> Onboarding checklist</a></li>
 <li class="divider"></li>
-<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+<li class="toc-logo"><a href="https://scannlab.psych.ufl.edu">SCANN Lab Website</a>
 
 </ul>
 
@@ -144,7 +145,7 @@
 <div id="header">
 <h1 class="title">SCANN Lab Manual</h1>
 <p class="author"><em>Steven M. Weisberg, PhD</em></p>
-<p class="date"><em>20 August, 2020</em></p>
+<p class="date"><em>21 August, 2020</em></p>
 </div>
 <div id="welcome" class="section level1" number="1">
 <h1><span class="header-section-number">Chapter 1</span> Welcome</h1>
@@ -152,7 +153,7 @@
 <p>If you are new to the lab, your first job is to read through this manual, then go through the <a href="onboarding">Onboarding checklist</a>.</p>
 <p>Maybe you are just joining the lab or need a refresher on lab policy. Or maybe you’re just curious about how we do things. Either way, we’re glad you’re here! This lab manual is an introduction to how we do work and science in the SCANN lab. The material you find here describes some overarching lab policies, the lab structure, and how to get started. It is also a living document and the manual itself is an introduction to some of the tools you will use when working in the lab (like RStudio, Git, and Slack).</p>
 <div class="figure">
-<img src="SCANN_Lab_Logo_NoOutline_With_Text.png" alt="" />
+<img src="figs/SCANN_Lab_Logo_NoOutline_With_Text.png" alt="" />
 <p class="caption">Lab logo</p>
 </div>
 <p>Our lab manual is open to the public and can be shared under a GNU-3.0 license (the Github repo is <a href="https://github.com/scann-lab/lab_manual">here</a>), but we have also borrowed heavily from others, including <a href="https://github.com/ContextLab/lab-manual">Jeremy Manning</a>, <a href="https://handbook-public.themusiclab.org/welcome">Samuel Mehr</a>, <a href="https://github.com/alylab/labmanual">Mariam Aly</a>, and <a href="https://github.com/jpeelle/peellelab_manual/">Jonathan Peelle</a>, and <a href="https://ccmorey.github.io/labHandbook/">Candice Morey</a>.</p>
@@ -193,14 +194,14 @@
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": {
-"github": false,
-"facebook": true,
+"github": true,
+"facebook": false,
 "twitter": true,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["github", "twitter"]
 },
 "fontsettings": {
 "theme": "white",
@@ -208,8 +209,8 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/rstudio/bookdown-demo/edit/master/index.Rmd",
-"text": "Edit"
+"link": null,
+"text": null
 },
 "history": {
 "link": null,
@@ -221,7 +222,8 @@ gitbook.start({
 },
 "download": ["SCANN_Lab_Manual.pdf", "SCANN_Lab_Manual.epub"],
 "toc": {
-"collapse": "subsection"
+"collapse": "section",
+"smooth_scroll": true
 }
 });
 });

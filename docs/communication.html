@@ -11,7 +11,7 @@
   <meta property="og:title" content="Chapter 5 Communication | SCANN Lab Manual" />
   <meta property="og:type" content="book" />
   
-  
+  <meta property="og:image" content="figs/SCANN_Lab_Logo_NoOutline_With_Text.png" />
   <meta property="og:description" content="This lab manual outlines the main policies and procedures for working in the SCANN lab." />
   
 
@@ -19,7 +19,7 @@
   <meta name="twitter:title" content="Chapter 5 Communication | SCANN Lab Manual" />
   
   <meta name="twitter:description" content="This lab manual outlines the main policies and procedures for working in the SCANN lab." />
-  
+  <meta name="twitter:image" content="figs/SCANN_Lab_Logo_NoOutline_With_Text.png" />
 
 <meta name="author" content="Steven M. Weisberg, PhD" />
 
@@ -29,7 +29,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
-  
+  <link rel="shortcut icon" href="figs/favicon.ico" type="image/x-icon" />
 <link rel="prev" href="doing-science-in-the-scann-lab.html"/>
 <link rel="next" href="resources.html"/>
 <script src="libs/header-attrs-2.3/header-attrs.js"></script>
@@ -66,9 +66,10 @@
       <nav role="navigation">
 
 <ul class="summary">
-<li><a href="./">Lab Handbook</a></li>
+<li class="toc-logo"><a href="./"><img src="figs/SCANN_Lab_Logo_NoOutline_With_Text.png"></a>
 
 <li class="divider"></li>
+<li class="part"><span><b>Introduction</b></span></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome</a></li>
 <li class="chapter" data-level="2" data-path="working-in-the-lab.html"><a href="working-in-the-lab.html"><i class="fa fa-check"></i><b>2</b> Working in the lab</a>
 <ul>
@@ -122,7 +123,7 @@
 </ul></li>
 <li class="chapter" data-level="7" data-path="onboarding.html"><a href="onboarding.html"><i class="fa fa-check"></i><b>7</b> Onboarding checklist</a></li>
 <li class="divider"></li>
-<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+<li class="toc-logo"><a href="https://scannlab.psych.ufl.edu">SCANN Lab Website</a>
 
 </ul>
 
@@ -209,14 +210,14 @@ If yes, send email. If no…</p></li>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": {
-"github": false,
-"facebook": true,
+"github": true,
+"facebook": false,
 "twitter": true,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["github", "twitter"]
 },
 "fontsettings": {
 "theme": "white",
@@ -224,8 +225,8 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/rstudio/bookdown-demo/edit/master/04-communication.Rmd",
-"text": "Edit"
+"link": null,
+"text": null
 },
 "history": {
 "link": null,
@@ -237,7 +238,8 @@ gitbook.start({
 },
 "download": ["SCANN_Lab_Manual.pdf", "SCANN_Lab_Manual.epub"],
 "toc": {
-"collapse": "subsection"
+"collapse": "section",
+"smooth_scroll": true
 }
 });
 });
