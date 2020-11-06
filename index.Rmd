@@ -25,6 +25,8 @@ Welcome to the [**Spatial Cognition and Navigational Neuroscience**](https://sca
 
 If you are new to the lab, your first job is to read through this manual, then go through the [Onboarding checklist](onboarding).
 
+If you are considering applying to work in the lab, find application forms (for undergraduate RAs) and how to contact Dr. Weisberg (for anyone else) [here](https://scannlab.psych.ufl.edu/join-us).
+
 Maybe you are just joining the lab or need a refresher on lab policy. Or maybe you're just curious about how we do things. Either way, we're glad you're here! This lab manual is an introduction to how we do work and science in the SCANN lab. The material you find here describes some overarching lab policies, the lab structure, and how to get started. It is also a living document and the manual itself is an introduction to some of the tools you will use when working in the lab (like RStudio, Git, and Slack).
 
 ![Lab logo](figs/SCANN_Lab_Logo_NoOutline_With_Text.png)

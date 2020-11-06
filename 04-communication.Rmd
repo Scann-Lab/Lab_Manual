@@ -36,7 +36,7 @@ In-person meetings (in person or via Zoom) are a great way to work directly and 
 
 Our lab [Slack](scannlab.slack.com) is the source for daily lab communication. Our communication via Slack takes three forms.
 
-* Easy instant messaging (@everyone; @steve weisberg)
+* Easy instant messaging (\@everyone; \@steve weisberg)
 
 * Communication about a particular topic. This is the purpose for channels. (#neurofeedback, #lab-purchasing). Feel free to start your own channel about a specific topic. Don't forget to invite the relevant people!
 

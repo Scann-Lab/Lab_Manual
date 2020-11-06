@@ -3,6 +3,7 @@
 Under construction!
 
 ## General Lab
+* [The lab wiki](https://osf.io/d8ke4/wiki/home/)
 
 ### RMarkdown
 
@@ -21,6 +22,8 @@ Active members of the lab would do well to track the literature on their own. He
 * Set up Feedly and integrate that with journals you read regularly
 
 * Become active on Cog. Neuro Twitter (seriously, I find way more articles that I actually read in this way than the other two methods!)
+
+* [Semantic Scholar](https://www.semanticscholar.org/)
 
 ### Cognitive Neuroscience
 
@@ -44,7 +47,7 @@ Active members of the lab would do well to track the literature on their own. He
 
 ### fMRI
 
-*
+*[Some notes on the Hipergator](hipergator_notes.md)
 
 ### Unity3D
 
