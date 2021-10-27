@@ -9,50 +9,24 @@ Under construction!
 
 * This lab manual is written in RMarkdown. If you'd like to contribute, you should! You'll need access to the Git repo (as a member of the SCANN lab). Samuel Mehr and the Music Lab have a great guide on [using Atom and Git](https://handbook-public.themusiclab.org/themusiclab.org/using-atom-and-git) that I highly recommend.
 
-### Zotero
-
 ## Literature
 
-Below are a few seminal lists of readings that any lab member can start with. Pick a topic and dive in.
+* Identify **journals** to track
+  * Set up email alerts (journal websites)
+  * Set up RSS feeds: [Feedly](feedly.com)
+* Identify researchers/labs to track
+  * Google Scholar Alerts: Topic OR author based
+* Identify topics you want to track
+  * [Semantic Scholar](https://www.semanticscholar.org/)
+* Become active on Cog. Neuro Twitter (seriously, I find way more articles that I actually read in this way than the other methods!)
+  * Subscribe to topics (or hashtags), create lists, follow researchers, labs, colleges/research centers
 
-Active members of the lab would do well to track the literature on their own. Here a few tips for doing so:
-
-* Set up Google Scholar alerts
-
-* Set up Feedly and integrate that with journals you read regularly
-
-* Become active on Cog. Neuro Twitter (seriously, I find way more articles that I actually read in this way than the other two methods!)
-
-* [Semantic Scholar](https://www.semanticscholar.org/)
-
-### Cognitive Neuroscience
-
-### fMRI
-
-### Spatial Navigation
-
-## Coding
-
-### General
-
-* Git
-
-* Bash
-
-* Tools
-
-  * Anaconda for Python
-
-  * Atom editor
-
-### fMRI
-
-*[Some notes on the Hipergator](hipergator_notes.md)
-
-### Unity3D
-
-### R
-
-### Python
-
-### MATLAB
+* List of recommended journals to follow:
+  * General:
+    * Science; Nature; PNAS
+  * Neuroscience:
+    * Neuron; Nature Neuroscience; Journal of Neuroscience; Journal of Cognitive Neuroscience; Current Biology; Cortex; Cerebral Cortex; Hippocampus; Human Brain Mapping; Neuropsychologia; Cognitive Neuropsychology; Neuroimage; Brain and Language; Cognitive, Affective & Behavioral Neuroscience
+  * Psychology:
+    * Nature Human Behavior; Psychological Science; JEP:G; JEP:LMC; JEP:A; JEP:HPP; Cognition; Cognitive Psychology; Journal of Cognition; Psychonomic Bulletin and Review; Behavior Research Methods; Cognitive Research: Principles and Implications; Memory and Cognition; Attention, Perception & Psychophysics
+  * Reviews:
+    * Trends in Neuroscience; Trends in Cognitive Sciences; Nature Reviews Neuroscience; Annual Reviews of Psychology; Annual Reviews of Neuroscience; Perspectives on Psychological Science

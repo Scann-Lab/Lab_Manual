@@ -21,16 +21,6 @@ email
 resources
 general-lab
 rmarkdown
-zotero
 literature
-cognitive-neuroscience
-fmri
-spatial-navigation
-coding
-general
-fmri-1
-unity3d
-r
-python
-matlab
 onboarding
+steps-to-follow

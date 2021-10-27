@@ -80,7 +80,7 @@
 \pretitle{%
   \begin{center}
   \LARGE
-  \includegraphics[width=12cm,height=6cm]{SCANN_Lab_Logo_NoOutline_With_Text.png}\\[\bigskipamount]
+  \includegraphics[width=12cm,height=6cm]{figs/SCANN_Lab_Logo_NoOutline_With_Text.png}\\[\bigskipamount]
 }
 \posttitle{\end{center}}
 \ifluatex
@@ -91,7 +91,7 @@
 
 \title{SCANN Lab Manual}
 \author{Steven M. Weisberg, PhD}
-\date{20 August, 2020}
+\date{27 October, 2021}
 
 \begin{document}
 \maketitle
@@ -102,6 +102,10 @@
 \tableofcontents
 }
 \setstretch{1.5}
+\hypertarget{part-introduction}{%
+\part*{Introduction}\label{part-introduction}}
+\addcontentsline{toc}{part}{Introduction}
+
 \hypertarget{welcome}{%
 \chapter{Welcome}\label{welcome}}
 
@@ -109,11 +113,13 @@ Welcome to the \href{https://scannlab.psych.ufl.edu}{\textbf{Spatial Cognition a
 
 If you are new to the lab, your first job is to read through this manual, then go through the \href{onboarding}{Onboarding checklist}.
 
+If you are considering applying to work in the lab, find application forms (for undergraduate RAs) and how to contact Dr.~Weisberg (for anyone else) \href{https://scannlab.psych.ufl.edu/join-us}{here}.
+
 Maybe you are just joining the lab or need a refresher on lab policy. Or maybe you're just curious about how we do things. Either way, we're glad you're here! This lab manual is an introduction to how we do work and science in the SCANN lab. The material you find here describes some overarching lab policies, the lab structure, and how to get started. It is also a living document and the manual itself is an introduction to some of the tools you will use when working in the lab (like RStudio, Git, and Slack).
 
 \begin{figure}
 \centering
-\includegraphics{./SCANN_Lab_Logo_NoOutline_With_Text.png}
+\includegraphics{figs/SCANN_Lab_Logo_NoOutline_With_Text.png}
 \caption{Lab logo}
 \end{figure}
 
@@ -392,7 +398,7 @@ One thing we often forget about is communicating with ourselves. This means \emp
 \hypertarget{lab-meeting}{%
 \section{Lab meeting}\label{lab-meeting}}
 
-Lab meetings are held weekly during the semester, Tuesday 12pm-2pm for the fall 2020 semester, and intermittently through the summer. Lab meetings are approximately two hours long. The first \textasciitilde20-30 minutes consist of lab updates in which each lab member briefly (5 minutes or so) explains what constituted the bulk of their work that week; what progress was made, what hurdles were hit; and any general info they encountered relevant to the lab. The remaining 1-1.5 hours is provided for one lab member to give a presentation. The presentation can range widely (almost all formats are acceptable). Here are a few examples:
+Lab meetings are held weekly during the semester, Wednesday 1pm-3pm EDT for the current semester, and intermittently through the summer. Lab meetings are approximately two hours long. The first \textasciitilde20-30 minutes consist of lab updates in which each lab member briefly (5 minutes or so) explains what constituted the bulk of their work that week; what progress was made, what hurdles were hit; and any general info they encountered relevant to the lab. The remaining 1-1.5 hours is provided for one lab member to give a presentation. The presentation can range widely (almost all formats are acceptable). Here are a few examples:
 
 \begin{itemize}
 \item
@@ -434,7 +440,7 @@ Our lab \href{scannlab.slack.com}{Slack} is the source for daily lab communicati
 
 \begin{itemize}
 \item
-  Easy instant messaging (\citet{everyone}; \citet{steve} weisberg)
+  Easy instant messaging (@everyone; @steve weisberg)
 \item
   Communication about a particular topic. This is the purpose for channels. (\#neurofeedback, \#lab-purchasing). Feel free to start your own channel about a specific topic. Don't forget to invite the relevant people!
 \item
@@ -444,7 +450,7 @@ Our lab \href{scannlab.slack.com}{Slack} is the source for daily lab communicati
 \hypertarget{trello}{%
 \section{Trello}\label{trello}}
 
-Our lab to-do lists. The {[}Onboarding checklist{]} is on Trello. I recommend that everyone use Trello as their own to-do list manager, but I would strongly encourage using the shared to-do list feature for projects we're working on. Note that cards can be assigned due dates and assigned to specific people, who can indicate when they have finished particular tasks.
+Our lab to-do lists. The \protect\hyperlink{onboarding}{Onboarding checklist} is on Trello. I recommend that everyone use Trello as their own to-do list manager, but I would strongly encourage using the shared to-do list feature for projects we're working on. Note that cards can be assigned due dates and assigned to specific people, who can indicate when they have finished particular tasks.
 
 \hypertarget{email}{%
 \section{Email}\label{email}}
@@ -459,6 +465,12 @@ Under construction!
 \hypertarget{general-lab}{%
 \section{General Lab}\label{general-lab}}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://osf.io/d8ke4/wiki/home/}{The lab wiki}
+\end{itemize}
+
 \hypertarget{rmarkdown}{%
 \subsection{RMarkdown}\label{rmarkdown}}
 
@@ -468,78 +480,123 @@ Under construction!
   This lab manual is written in RMarkdown. If you'd like to contribute, you should! You'll need access to the Git repo (as a member of the SCANN lab). Samuel Mehr and the Music Lab have a great guide on \href{https://handbook-public.themusiclab.org/themusiclab.org/using-atom-and-git}{using Atom and Git} that I highly recommend.
 \end{itemize}
 
-\hypertarget{zotero}{%
-\subsection{Zotero}\label{zotero}}
-
 \hypertarget{literature}{%
 \section{Literature}\label{literature}}
-
-Below are a few seminal lists of readings that any lab member can start with. Pick a topic and dive in.
-
-Active members of the lab would do well to track the literature on their own. Here a few tips for doing so:
-
-\begin{itemize}
-\item
-  Set up Google Scholar alerts
-\item
-  Set up Feedly and integrate that with journals you read regularly
-\item
-  Become active on Cog. Neuro Twitter (seriously, I find way more articles that I actually read in this way than the other two methods!)
-\end{itemize}
-
-\hypertarget{cognitive-neuroscience}{%
-\subsection{Cognitive Neuroscience}\label{cognitive-neuroscience}}
-
-\hypertarget{fmri}{%
-\subsection{fMRI}\label{fmri}}
-
-\hypertarget{spatial-navigation}{%
-\subsection{Spatial Navigation}\label{spatial-navigation}}
-
-\hypertarget{coding}{%
-\section{Coding}\label{coding}}
-
-\hypertarget{general}{%
-\subsection{General}\label{general}}
-
-\begin{itemize}
-\item
-  Git
-\item
-  Bash
-\item
-  Tools
-
-  \begin{itemize}
-  \item
-    Anaconda for Python
-  \item
-    Atom editor
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{fmri-1}{%
-\subsection{fMRI}\label{fmri-1}}
 
 \begin{itemize}
 \tightlist
 \item
+  Identify \textbf{journals} to track
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Set up email alerts (journal websites)
+  \item
+    Set up RSS feeds: \href{feedly.com}{Feedly}
+  \end{itemize}
+\item
+  Identify researchers/labs to track
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Google Scholar Alerts: Topic OR author based
+  \end{itemize}
+\item
+  Identify topics you want to track
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{https://www.semanticscholar.org/}{Semantic Scholar}
+  \end{itemize}
+\item
+  Become active on Cog. Neuro Twitter (seriously, I find way more articles that I actually read in this way than the other methods!)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Subscribe to topics (or hashtags), create lists, follow researchers, labs, colleges/research centers
+  \end{itemize}
+\item
+  List of recommended journals to follow:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    General:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Science; Nature; PNAS
+    \end{itemize}
+  \item
+    Neuroscience:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Neuron; Nature Neuroscience; Journal of Neuroscience; Journal of Cognitive Neuroscience; Current Biology; Cortex; Cerebral Cortex; Hippocampus; Human Brain Mapping; Neuropsychologia; Cognitive Neuropsychology; Neuroimage; Brain and Language; Cognitive, Affective \& Behavioral Neuroscience
+    \end{itemize}
+  \item
+    Psychology:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Nature Human Behavior; Psychological Science; JEP:G; JEP:LMC; JEP:A; JEP:HPP; Cognition; Cognitive Psychology; Journal of Cognition; Psychonomic Bulletin and Review; Behavior Research Methods; Cognitive Research: Principles and Implications; Memory and Cognition; Attention, Perception \& Psychophysics
+    \end{itemize}
+  \item
+    Reviews:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Trends in Neuroscience; Trends in Cognitive Sciences; Nature Reviews Neuroscience; Annual Reviews of Psychology; Annual Reviews of Neuroscience; Perspectives on Psychological Science
+    \end{itemize}
+  \end{itemize}
 \end{itemize}
-
-\hypertarget{unity3d}{%
-\subsection{Unity3D}\label{unity3d}}
-
-\hypertarget{r}{%
-\subsection{R}\label{r}}
-
-\hypertarget{python}{%
-\subsection{Python}\label{python}}
-
-\hypertarget{matlab}{%
-\subsection{MATLAB}\label{matlab}}
 
 \hypertarget{onboarding}{%
 \chapter{Onboarding checklist}\label{onboarding}}
+
+\emph{Welcome to the SCANN Lab! Below you will find information and a checklist on getting started in lab. If you have any questions, please reach out to the lab manager.}
+
+\hypertarget{steps-to-follow}{%
+\section{Steps to follow:}\label{steps-to-follow}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Email the lab manager with subject line ``New SCANN Lab Member''. The lab manager email can be found \href{https://scannlab.psych.ufl.edu/lab-manager/}{here}.
+\item
+  The lab manager will email you back with information on how to join our Slack channel, when our meetings will be, and how to finish onboarding.
+\item
+  Make sure you finish the following tasks for onboarding:
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  You are added to the Slack channel
+\item[$\square$]
+  You are added to the Google Drive
+\item[$\square$]
+  You finish your website update and send all information to the lab manager and Dr.~Weisberg for approval.
+\item[$\square$]
+  You are added to the necessary IRB studies
+\item[$\square$]
+  You finish all relevant tasks on Trello
+\item[$\square$]
+  You finish all relevant trainings through \href{https://my.ufl.edu/ps/signon.html}{myUFL}
+\item[$\square$]
+  You are given a tour of lab space and where you will be conducting research.
+\item[$\square$]
+  You are given building access to any areas you need to access.
+\end{itemize}
 
   \bibliography{book.bib,packages.bib}
 

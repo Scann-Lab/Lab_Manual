@@ -14,7 +14,7 @@ fontsize: 12pt
 linestretch: 1.5
 description: "This lab manual outlines the main policies and procedures for working in the SCANN lab."
 favicon: figs/favicon.ico
-cover-image: figs/SCANN_Lab_Logo_NoOutline_With_Text.png
+cover-image: knitr::include_graphics("figs/SCANN_Lab_Logo_NoOutline_With_Text.png")
 ---
 
 # (PART\*) Introduction {-}
