@@ -2,17 +2,23 @@
 
 In the SCANN lab, we practice careful, deliberate, open science. This means that every person in the lab has a responsibility to make sure their projects are well-documented, reproducible, and undertaken with an eye toward the future. The following are a few more specific guidelines.
 
+We also prioritize an open and accepting lab environment. Criticisms are constructive, delivered and received openly and respectfully, and always aimed at the work, not the person. 
+
+Last, we emphasize that working in the lab *is a job*. It is not a hobby, nor a passion project, nor an obsession. You will get the most of working in the lab if you approach it as a vocation and a learning experience. With many things in life, how you approach your work in lab can define your experience. The attributes that make a good scientist include taking initiative, being able to seek solutions to your problems, and knowing when and how to ask for help. 
+
+You have the following rights working in the lab. 
+
 ## Rights
 * **You have the right to a work environment free from prejudice, bias, harassment, and discrimination**
 We have a strong focus on inclusion, diversity, and a harassment-free workplace. At all times, we treat each other, our participants, and our science with respect. (This does not mean we cannot argue - passionately, if need be. Dissenting opinions and knowing when to stand up for your opinion and when to back down, are in fact critical aspects of the scientific process.) You have the right to a workplace culture that supports you, your career, and your expressions (as long as these rights don’t violate the rights of others.)
 
-* **You have the right to make mistakes.** No one is perfect. Dr. Weisberg has (probably) made bigger mistakes than you will during your time in the lab. (Ask him sometime.) Science is hard, and the work we do is at the edge of knowledge. This is very cool, but it also means we are much more likely to make mistakes that we don’t catch right away. Below, you’ll see what your responsibilities are if (when) you make a mistake.
+* **You have the right to make mistakes.** No one is perfect. Dr. Weisberg has (probably) made bigger mistakes than you will during your time in the lab. (Ask him sometime.) Science is hard, and the work we do is at the edge of knowledge. This is very cool, but it also means we are much more likely to make mistakes that we don’t catch right away. Below, you’ll see what your responsibilities are if (when) you make a mistake. But here, know that we work in a space where you have the right to make mistakes sometimes. It does not reflect on you as a person or as a scientist. What defines you is your response to mistakes. 
 
 * **You have the right to have ideas.** No matter how strange.
 
 * **You have the right to criticize ideas.** You are expected to criticize your own ideas! But you should also think critically about the ideas of others (including and perhaps especially Dr. Weisberg), and when you criticize an idea: focus your criticism on the idea, not on the person who came up with the idea, including yourself!
 
-* **You have the right to maintain a healthy work-life balance.** I hope that you love working in the lab, but this does not mean slavish devotion ;).
+* **You have the right to maintain a healthy work-life balance.** I hope that you love working in the lab, but this does not mean slavish devotion ;). 
 
 ## Responsibilities
 * **All lab members will prioritize a healthy and supportive lab culture.**

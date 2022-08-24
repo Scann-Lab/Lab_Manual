@@ -7,7 +7,7 @@ pi
 phd-students
 lab-manager
 undergraduate-ras-psy4911
-undergraduate-honors-students-tbd
+undergraduate-honors-students-psy-4970
 doing-science-in-the-scann-lab
 open-science
 data-management
@@ -19,8 +19,5 @@ slack
 trello
 email
 resources
-general-lab
-rmarkdown
+department-specific-resources
 literature
-onboarding
-steps-to-follow

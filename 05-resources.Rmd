@@ -1,13 +1,9 @@
 # Resources
 
-Under construction!
+A more thorough list of resources for learning and doing science in the lab is available on our [Lab Wiki](https://osf.io/d8ke4/wiki/home/)
 
-## General Lab
-* [The lab wiki](https://osf.io/d8ke4/wiki/home/)
-
-### RMarkdown
-
-* This lab manual is written in RMarkdown. If you'd like to contribute, you should! You'll need access to the Git repo (as a member of the SCANN lab). Samuel Mehr and the Music Lab have a great guide on [using Atom and Git](https://handbook-public.themusiclab.org/themusiclab.org/using-atom-and-git) that I highly recommend.
+## Department-specific Resources
+- [A list of Psychology staff and their responsibilities](https://psych.ufl.edu/directory/staff/)
 
 ## Literature
 

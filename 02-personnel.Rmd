@@ -29,7 +29,7 @@ PhD students are expected to:
 * Develop (or maintain) healthy work habits and a good balance.
 
 ## Lab Manager
-The lab manager should have a more regular schedule to ensure a stability in the lab. Due to the nature of OPS positions at UF, 8 hours per day is expected, and these hours should occur roughly between 8am and 6pm. There will be exceptions to this - weekend or late night fMRI scanning sessions come to mind - and these hours can be 'made up for' during the week. Time off requests can be somewhat informal, but should be submitted to the PI in writing so we have a record of such things.
+The lab manager will have a regular schedule to ensure a stability in the lab. Due to the nature of OPS positions at UF, 8 hours per day is expected, and these hours should occur roughly between 8am and 6pm. There will be exceptions to this - weekend or late night fMRI scanning sessions come to mind - and these hours can be 'made up for' during the week. Time off requests can be somewhat informal, but should be submitted to the PI in writing so we have a record of such things.
 
 The Lab Manager is expected to:
 
@@ -50,6 +50,8 @@ The Lab Manager is expected to:
   * Putting projects online (via Prolific, M-Turk, Pavlovia, etc.)
 
   * Running experiments
+  
+  * Soliciting (from lab members) submitting purchase requests
 
 * Contribute to their own project (this will depend on the particular person, but all lab managers will have the opportunity to work on their own research project(s)).
 
@@ -98,5 +100,35 @@ Undergraduate research assistants are expected to:
 
   * Knowledge of the literature of cognitive neuroscience as pertains to their projects.
 
-## Undergraduate Honors Students (TBD)
-Section under construction
+## Undergraduate Honors Students (PSY 4970)
+Undergraduate research assistants who have worked in the lab for at least one year will have the opportunity to propose an Honors thesis. 
+
+A typical Honor's thesis will be a relatively small-scale project that is easy to design, collect data for, and analyze. A strong Honor's thesis will have clear hypotheses and pre-registered methods and analysis. The Honor's thesis will be undertaken primarily by the student, under the supervision of a lab member (usually grad student or post-doc). The writing and presentation must be done primarily by the student. 
+
+Here are the requirements (adapted from this [website](https://psych.ufl.edu/undergrad/research-internship-teaching-experiences/research-experience/)):
+
+- (At least) 1 year prior to defending: 
+  - Schedule a meeting with Steve to discuss the possibility of an Honor's thesis and to develop a topic and a direct advisor (either Steve or, more likely, a graduate student or post-doc in the lab).
+  - Create a list of at least 5-10 highly relevant papers you will read and provide an annotated bibliography to Dr. Weisberg. These papers should be mostly empirical, and approved by Dr. Weisberg (or your direct advisor). They should be coherent around a topic which you want to focus on. 
+  - Schedule a presentation in lab meeting to propose the rough outline of your project and the literature review you conducted. 
+- In the semester *before* you defend: 
+  - Select members for your thesis committee (Steve and two other faculty members, typically though not always in the Psychology department) 
+  - Develop a 7-pg double-spaced written proposal
+  - Fill out the [registration form](https://psych.ufl.edu/wp-content/uploads/sites/75/PSY-4970_2020.pdf). If out of date, check the [website](https://psych.ufl.edu/undergrad/research-internship-teaching-experiences/research-experience/).
+  - Submit the registration form to the Psychology Advising Office (Room PSY 135). 
+- In the semester you defend: 
+  - Schedule the thesis defense. This must be **prior** to the last day of classes, but as a rule, it should be at least two weeks before to allow time for rescheduling if necessary. 
+  - Reserve a room (usually PSY 108) by emailing the [dedicated staff person](https://psych.ufl.edu/directory/staff/)
+  - Complete the project, analyze the data, write the full thesis. 
+  - Schedule a lab meeting for a practice presentation and to get feedback on the results / analyses. 
+  - Submit the thesis for Dr. Weisberg to review and give feedback **at least one week before the defense**.
+  - Create a 15-minute presentation outlining the Introduction (background, motivation, and hypotheses), Method (participants, materials, experiment structure, measures), Results (analyses and outcomes), and Discussion (interpretation, limitations, and next steps). 
+  - Send the thesis to all committee members (including Dr. Weisberg and your direct advisor) at least one week prior to the defense. Include in your email a reminder of the date/time and room of the defense. 
+- On the day of the defense (which must be prior to the last day of classes): 
+  - Make sure you have your presentation and a copy of your thesis on a flash drive and online somewhere (e.g., Dropbox, Onedrive, or emailed to yourself). 
+  - Arrive at least 10 minutes early to set up any equipment. 
+  - Bring with you a copy of [this form](https://psych.ufl.edu/wp-content/uploads/sites/75/defense_form.pdf) to be signed after the defense. 
+- After the defense: 
+  - Submit the defense form to Psych advising in PSY 135. 
+  - [Follow the instructions on submitting your thesis electronically](http://cms.uflib.ufl.edu/etd/honors#Submit). 
+  - CELEBRATE! 

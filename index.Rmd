@@ -23,7 +23,7 @@ cover-image: knitr::include_graphics("figs/SCANN_Lab_Logo_NoOutline_With_Text.pn
 
 Welcome to the [**Spatial Cognition and Navigational Neuroscience**](https://scannlab.psych.ufl.edu) Laboratory at the University of Florida, directed by Steven Weisberg.
 
-If you are new to the lab, your first job is to read through this manual, then go through the [Onboarding checklist](onboarding).
+If you are new to the lab, your first job is to read through this manual, then go through the onboarding checklist, which you will be added to by a lab manager.
 
 If you are considering applying to work in the lab, find application forms (for undergraduate RAs) and how to contact Dr. Weisberg (for anyone else) [here](https://scannlab.psych.ufl.edu/join-us).
 
