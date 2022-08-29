@@ -40,4 +40,4 @@ You can find the SCANN lab across the internet:
 - [On Github](https://github.com/scann-lab)
 - [On Open Science Framework](https://osf.io/4hbgz)[^OSF]
 
-[^OSF]: You will also find our lab wiki here.
+You will also find our lab wiki [here](https://osf.io/d8ke4/).
