@@ -5,7 +5,7 @@ Science, especially as practiced in the SCANN Lab, is a collaborative endeavor, 
 One thing we often forget about is communicating with ourselves. This means *good documentation* so people don't have to reinvent the wheel. We will have the following:
 
 ## Lab meeting
-Lab meetings are held weekly during the semester, Wednesday 1pm-3pm EDT for the current semester, and intermittently through the summer. Lab meetings are approximately two hours long. The first ~20-30 minutes consist of lab updates in which each lab member briefly (5 minutes or so) explains what constituted the bulk of their work that week; what progress was made, what hurdles were hit; and any general info they encountered relevant to the lab. The remaining 1-1.5 hours is provided for one lab member to give a presentation. The presentation can range widely (almost all formats are acceptable). Here are a few examples:
+Lab meetings are held weekly during the semester and intermittently throughout the summer. For Fall 2022, they are held every Thursday 12:15pm-2:15pm in room PSY-108. If you can't attend in-person, you can find the zoom link on the [Meeting Agenda](https://docs.google.com/document/d/1K1Y78WeIoIAFHpQcDvpAdWEz-Hmz6qARkhGufRAvJNY/edit?usp=sharing). This document also provides an outline for that week's meeting. Lab meetings are approximately two hours long. The first ~20-30 minutes consist of lab updates in which each lab member briefly (5 minutes or so) explains what constituted the bulk of their work that week; what progress was made, what hurdles were hit; and any general info they encountered relevant to the lab. The remaining 1-1.5 hours is provided for one lab member to give a presentation. The presentation can range widely (almost all formats are acceptable). Here are a few examples:
 
 * A journal club / discussion of an article
 
@@ -34,7 +34,7 @@ In-person meetings (in person or via Zoom) are a great way to work directly and 
 
 ## Slack
 
-Our lab [Slack](scannlab.slack.com) is the source for daily lab communication. Our communication via Slack takes three forms.
+Our lab [Slack](https://scannlab.slack.com) is the source for daily lab communication. Our communication via Slack takes three forms.
 
 * Easy instant messaging (\@everyone; \@steve weisberg)
 
@@ -44,7 +44,7 @@ Our lab [Slack](scannlab.slack.com) is the source for daily lab communication. O
 
 ## Trello
 
-Our lab to-do lists. The [Onboarding checklist] is on Trello. I recommend that everyone use Trello as their own to-do list manager, but I would strongly encourage using the shared to-do list feature for projects we're working on. Note that cards can be assigned due dates and assigned to specific people, who can indicate when they have finished particular tasks.
+Our lab to-do lists. The [Onboarding checklist](https://trello.com/b/28xRs6mi/onboarding) is on Trello. I recommend that everyone use Trello as their own to-do list manager, but I would strongly encourage using the shared to-do list feature for projects we're working on. Note that cards can be assigned due dates and assigned to specific people, who can indicate when they have finished particular tasks.
 
 ## Email
 
