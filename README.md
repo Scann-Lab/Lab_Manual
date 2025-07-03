@@ -5,7 +5,7 @@ This is the home of the living SCANN lab manual.
 
 [Find the link here](https://scann-lab.github.io/Lab_Manual/)
 
-If you're just joining the lab, your *first* job is to read through this manual, completing all tasks in the Orientation section.
+If you're just joining the lab, your *first* job is to read through this manual.
 
 To make edits, the lab manual is written in R Markdown.
 
